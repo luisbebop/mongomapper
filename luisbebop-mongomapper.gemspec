@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{mongo_mapper}
+  s.name = %q{luisbebop-mongomapper}
   s.version = "0.5.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -51,7 +51,7 @@ Gem::Specification.new do |s|
      "lib/mongo_mapper/serializers/json_serializer.rb",
      "lib/mongo_mapper/support.rb",
      "lib/mongo_mapper/validations.rb",
-     "mongo_mapper.gemspec",
+     "luisbebop-mongomapper.gemspec",
      "specs.watchr",
      "test/NOTE_ON_TESTING",
      "test/functional/associations/test_belongs_to_polymorphic_proxy.rb",
